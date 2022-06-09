@@ -1,0 +1,9 @@
+
+ Setup a Kho Lien Vung in city 4
+ Setup a Kho Lien Vung in city 7
+ Setup a Kho Lien Vung in city 8
+ Setup a Kho Lien Vung in city 9
+ Setup a Kho Lien Vung in city 11
+ Setup a Kho Lien Vung in city 13
+ Setup a Kho Lien Vung in city 16
+ Setup a Kho Lien Vung in city 18
